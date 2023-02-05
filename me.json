@@ -1,0 +1,66 @@
+{
+    "name": {
+        "firstName": "Steve",
+        "lastName": null
+    },
+    "birthday": {
+        "date": "1999-10-26",
+        "age": 23,
+        "zodiacSign": "scorpio"
+    },
+    "gender": {
+        "identity": "cis-male femboy",
+        "orientation": "bisexual",
+        "pronouns": "he/him"
+    },
+    "location": {
+        "country": "DE",
+        "zipCode": "68161",
+        "city": "Mannheim",
+        "street": null
+    },
+    "languages": {
+        "spoken": ["de", "en", "pl", "ru"],
+        "programming": ["c", "c++", "python", "html", "css", "scss", "javascript", "typescript", "php", "mysql"]
+    },
+    "occupation": "full-stack-developer",
+    "appearance": {
+        "eyeColor": "blue",
+        "hairColor": "black",
+        "height": 1.81,
+        "weight": 90.2,
+        "bodyHair": "none"
+    },
+    "dmsAllowed": "freeForAll",
+    "nsfwStuff": {
+        "dominance": "switch",
+        "sexPosition": "both",
+        "kinks": ["petplay", "toys", "hypnosis"]
+    },
+    "music": [
+        "rap-de", "rap-en", "rap-pl", "dub-techno", "melodic-techno", "chiptune", "video-game-music",
+        "trap", "dubstep", "ambient", "folk", "slavic choir", "classic music"
+    ],
+    "games": [
+        "csgo", "far cry", "gta", "assassains creed", "tomb raider", "watch dogs", "minecraft", "stardew valley"
+    ],
+    "hobbies": [
+        "video games", "making music", "programming", "designing", "paintball",
+        "growing weed, chilli peppers and lavender", "inventing new high-tech sex toys"
+    ],
+    "dislikes": [
+        "body hair", "humiliation", "social justice warriors", "racism", "smalltalk", "irrational people", "football", "pizza hawaii"
+    ],
+    "likes": [
+        "body contact", "intellectual stimulation", "spending time alone", "open-minded people", "deep and meaningful conversations",
+        "energy drinks", "long island iced tea", "getting high", "reverse-engineering old games", "pretty much every purple flower",
+        "playing dress-up", "roleplays", "sugar, spice and everying nice", "LEDs everywhere", "christmas lights", "fireworks", "pastel colors",
+        "mbti memes", "femboy memes", "dark humor", "debates", "cat ears and tails", "excessive cuddling and hugging"
+    ],
+    "lookingFor": [
+        "femboy therapist", "someone to tell me its going to be ok", "cuddle buddy", "new friends", "collaboration in femboy-tech projects"
+    ],
+    "notes": [
+        "shy", "inexperienced in social interactions", "very ticklish"
+    ]
+}
