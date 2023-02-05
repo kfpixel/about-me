@@ -1,8 +1,6 @@
+```json
 {
-    "name": {
-        "firstName": "Steve",
-        "lastName": null
-    },
+    "name": "Steve",
     "birthday": {
         "date": "1999-10-26",
         "age": 23,
@@ -15,13 +13,12 @@
     },
     "location": {
         "country": "DE",
-        "zipCode": "68161",
         "city": "Mannheim",
         "street": null
     },
     "languages": {
-        "spoken": ["de", "en", "pl", "ru"],
-        "programming": ["c", "c++", "python", "html", "css", "scss", "javascript", "typescript", "php", "mysql"]
+        "spoken": [ "de", "en", "pl", "ru"],
+        "programming": ["c", "python", "js", "php", "mysql"]
     },
     "occupation": "full-stack-developer",
     "appearance": {
@@ -38,18 +35,11 @@
         "kinks": ["petplay", "toys", "hypnosis"]
     },
     "music": [
-        "rap-de", "rap-en", "rap-pl", "dub-techno", "melodic-techno", "chiptune", "video-game-music",
-        "trap", "dubstep", "ambient", "folk", "slavic choir", "classic music"
-    ],
-    "games": [
-        "csgo", "far cry", "gta", "assassains creed", "tomb raider", "watch dogs", "minecraft", "stardew valley"
+        "rap", "dub-techno", "melodic-techno", "chiptune", "trap", "ambient", "folk", "slavic choir", "classic music"
     ],
     "hobbies": [
-        "video games", "making music", "programming", "designing", "paintball",
+        "video games", "making music", "programming", "designing",
         "growing weed, chilli peppers and lavender", "inventing new high-tech sex toys"
-    ],
-    "dislikes": [
-        "body hair", "humiliation", "social justice warriors", "racism", "smalltalk", "irrational people", "football", "pizza hawaii"
     ],
     "likes": [
         "body contact", "intellectual stimulation", "spending time alone", "open-minded people", "deep and meaningful conversations",
@@ -64,3 +54,4 @@
         "shy", "inexperienced in social interactions", "very ticklish"
     ]
 }
+```
